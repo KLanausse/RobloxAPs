@@ -1,0 +1,7 @@
+{
+	"Name": "ArchipelagoMW",
+	"Description": "Share Assets For My Archipelago Implementations",
+	"Author": "Lanausse",
+	"Version": "1.0.0",
+	"Clients": ["*"]
+}
