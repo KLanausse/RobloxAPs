@@ -1,0 +1,7 @@
+{
+	"Name": "Natural Disaster Survival",
+	"Description": "Assets For Natural Disaster Survival",
+	"Author": "Lanausse",
+	"Version": "1.0.0",
+	"Clients": ["*"]
+}
